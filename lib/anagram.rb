@@ -2,7 +2,6 @@
 
 class Anagram
   attr_accessor :word, 
-  @@anagram_check = ["enlists", "google", "inlets", "banana"]
   
   def initialize(word)
     @word = word
