@@ -1,7 +1,7 @@
 #%w(enlists google inlets banana)
 
 class Anagram
-  attr_accessor :word, 
+  attr_accessor :word
   
   def initialize(check)
     @word = check
