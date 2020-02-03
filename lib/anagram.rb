@@ -8,7 +8,7 @@ class Anagram
   end
   
   def match(array)
-    a
+    array.select
   end
   
 end
